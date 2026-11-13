@@ -1,16 +1,14 @@
-## Hi there 👋
+public class FernandoZacarias {
+    private final String rol = "Estudiante de Licenciatura en Sistemas";
+    private final String[] foco = {"Desarrollo de software", "Bases de datos", "Programación Orientada a Objetos"};
 
-<!--
-**Fernandofz17/Fernandofz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    public String queHago() {
+        return "Diseño y desarrollo sistemas de gestión, "
+             + "modelo bases de datos relacionales y "
+             + "resuelvo problemas con código limpio y pensamiento lógico.";
+    }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public boolean siempreAprendiendo() {
+        return true; // 100% del tiempo
+    }
+}
