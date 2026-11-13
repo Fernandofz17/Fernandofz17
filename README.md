@@ -1,14 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=%C2%A1Hola%2C+soy+Fernando+Zacar%C3%ADas!%F0%9F%91%8B;Abogado+UNNE+2023+%E2%9A%96%EF%B8%8F;Estudiante+de+Licenciatura+en+Sistemas%F0%9F%92%BB;Cazador+de+NullPointerExceptions%F0%9F%94%8E;Constructor+de+sistemas+que+no+se+caen%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Fernando%20Zacar%C3%ADas&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%96%EF%B8%8F%20Abogado%20UNNE%202023%20%20%F0%9F%92%BB%20Est.%20Licenciatura%20en%20Sistemas&descAlignY=58&descSize=17&animation=fadeIn" alt="Fernando Zacarias — banner animado" />
+
+<table>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d2859146924.gif" width="185" alt="equalizer animado" /></td>
+<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=7EE787&center=true&vCenter=true&random=false&width=480&lines=%C2%A1Hola%2C+soy+Fernando%F0%9F%91%8B;Abogado+UNNE+2023+%E2%9A%96%EF%B8%8F;Estudiante+de+Licenciatura+en+Sistemas%F0%9F%92%BB;Cazador+de+NullPointerExceptions%F0%9F%94%8E;Constructor+de+sistemas+que+no+se+caen%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+</td>
+<td><img src="https://user-images.githubusercontent.com/74038190/212284115-a6c0bcb3-2ee4-4b74-b1a5-4c62e69d0b98.gif" width="185" alt="equalizer animado" /></td>
+</tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](URL-DE-TU-LINKEDIN)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fernandofz17)
+<br/>
 ![Abogado UNNE 2023](https://img.shields.io/badge/%E2%9A%96%EF%B8%8F_Abogado-UNNE_2023-2E8B57?style=for-the-badge)
-[![Visitor](https://komarev.com/ghpvc/?username=Fernandofz17&color=58A6FF&style=for-the-badge&label=Visitantes)](https://github.com/Fernandofz17)
+![Legajo L+S](https://img.shields.io/badge/Combo_Definitivo-Derecho_%2B_Sistemas-FF6EB4?style=for-the-badge)
+[![Visitor](https://komarev.com/ghpvc/?username=Fernandofz17&color=7EE787&style=for-the-badge&label=Visitantes)](https://github.com/Fernandofz17)
 
-<img src="https://user-images.githubusercontent.com/74038190/240295619-fc972d3c-4fd3-47b7-a3fe-704f59918d1e.gif" width="100%" alt="decorative wave" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-9832c538-3294-4a05-9d9a-3a5c5b356656.gif" width="100%" height="80" alt="matrix animada" />
+
+<a href="https://github.com/Fernandofz17">
+<img src="https://skillicons.dev/icons?i=c,java,python,mysql,html,css,git,github,vscode,idea&theme=dark" alt="iconos de tecnologías" />
+</a>
 
 </div>
 
@@ -33,6 +49,7 @@
 - 🎓 Estudiante de **Licenciatura en Sistemas** (con la teoría y el `main()` comprobado en producción académica)
 - ⚖️ **Abogado recibido en la UNNE (2023)** — sí, derecho + código: el combo que entiende tanto los requisitos legales como los técnicos
 - 💻 **POO con Java de nivel avanzado**: herencia, polimorfismo, colecciones, y hasta una GUI con temas rosa y oscuro 🔥
+- 🔩 **C en sangre**: punteros, memoria y `malloc` — donde el hardware se rinde ante quien entiende lo que pasa por debajo
 - 🗄️ **Bases de datos**: modelado relacional, consultas SQL, patrones DAO, claves foráneas restrictivas y singleton de conexión (lo que se dice "arquitectura", no solo un `SELECT *`)
 - 🧠 **Programación funcional** en Common Lisp (recursión, orden superior — donde otros entregan en Python, yo pienso en paréntesis)
 - 🐍 **Python**: automatización de cálculos de costos para negocios reales
@@ -47,6 +64,7 @@
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL/SQLite-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Common Lisp](https://img.shields.io/badge/Common_Lisp-3FB68B?style=for-the-badge&logo=lisp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -193,6 +211,8 @@ Un sistema de gestión de biblioteca en Java con **arquitectura de tres capas** 
 - 🗃️ Le tengo más miedo a una **clave foránea restrictiva** mal diseñada que a un parcial
 - 🎨 Diseñé **4 temas visuales** para una GUI, incluyendo uno rosa. *No me juzguen, la estética también es ingeniería.*
 - ☕ Creo firmemente que `main()` es un estilo de vida
+- 🔩 Amo **C**: es el único lenguaje donde tenés que pedir perdón antes de hacer un `free()`. "Programo en C" suena igual de imponente que "litigo en el superior" — y ahora hago las dos 🎤⬇️
+- 💣 A un `segmentation fault` lo denuncio penalmente. Tiene toda la intención. 🕵️
 
 ---
 
@@ -203,8 +223,10 @@ Un sistema de gestión de biblioteca en Java con **arquitectura de tres capas** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](URL-DE-TU-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 
+**"Primero hacé que funcione. Después hacé que funcione con base de datos, GUI y diagrama UML."** ⚡
+
 <img src="https://user-images.githubusercontent.com/74038190/240295619-fc972d3c-4fd3-47b7-a3fe-704f59918d1e.gif" width="100%" alt="decorative wave" />
 
-**"Primero hacé que funcione. Después hacé que funcione con base de datos, GUI y diagrama UML."** ⚡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer&text=%C2%A1Gracias%20por%20pasar!%20%F0%9F%91%8B&fontSize=26&fontColor=ffffff&animation=twinkling" alt="footer animado" />
 
 </div>
