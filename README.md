@@ -32,30 +32,58 @@
 
 ## 🧑‍💻 Sobre mí
 
+> [!IMPORTANT]
+> ⚖️ **Abogado recibido en la UNNE (2023)** — sí, derecho + código. El que entiende los requisitos legales *y también* los técnicos.
+
+> [!TIP]
+> 🔍 **Cazador oficial de NullPointerException** — mi grupo se llama así y desde entonces no volvió a aparecer ninguno. Evidencia en los proyectos de abajo 🧾
+
 ```java
-/**
- * Fernando Zacarias — Estudiante de Licenciatura en Sistemas
- *try {
- *    // TODO: aprobar todas las materias sin sacarse un nullpointer de la cabeza
- *    return SISTEMA_FINALIZADO_CON_EXITO;
- * } catch (NullPointerException e) {
- *    return "Nunca me van a pillar"; // grupo fundado para vencerlos
- * }
- */
+public final class FernandoZacarias extends Humano implements Abogado, DevEnProgreso {
+
+    private static final String UNIVERSIDAD = "UNNE 🏛️";
+    private static final int    ANIO_TITULO = 2023;          // ⚖️ recibido, con la toga y todo
+    private String estadoAnimo = "compilando el tercer café ☕";
+
+    @Override
+    public String presentacion() {
+        try {
+            aprobarTodasLasMaterias();                            // objetivo principal
+            return "🏆 SISTEMA FINALIZADO CON ÉXITO — 0 errores, 0 warnings";
+        } catch (NullPointerException e) {
+            System.out.println("🚨 Acá no pasan. Nunca más.");        // grupo fundado para cazarlos
+            return "🧾 Evidencia: github.com/MiltonRodx/integrador-poo";
+        } catch (Exception e) {
+            return "🌙 No compila el alma... modo siesta activado";
+        } finally {
+            System.out.println("📌 Cada bug arreglado = un paso más al título");
+        }
+    }
+
+    public String[] stackActual() {
+        return new String[] {
+            "C             🔩 punteros, malloc y sin miedo",
+            "Java          ☕ POO nivel avanzado, GUI incluida",
+            "SQL / SQLite  🗄️ integridad referencial on fire",
+            "Python        🐍 automatizo lo que se mueve",
+            "Common Lisp   🧠 paréntesis: sobrevivido",
+            "HTML / CSS    🌐 camino al full-stack"
+        };
+    }
+
+    public String lema() {
+        return "Primero que funcione. Después que funcione BIEN. "
+             + "¿Y si hay que defenderlo? Para eso soy abogado. 🎤⬇️";
+    }
+}
 ```
 
-> ⚠️ *Nota del departamento de RRHH: perfil verificado por más compiladores que posts de LinkedIn.*
+> [!CAUTION]
+> 🗃️ Perfil verificado por **más compiladores que posts de LinkedIn**. Sí, eso es un flex.
 
-- 🎓 Estudiante de **Licenciatura en Sistemas** (con la teoría y el `main()` comprobado en producción académica)
-- ⚖️ **Abogado recibido en la UNNE (2023)** — sí, derecho + código: el combo que entiende tanto los requisitos legales como los técnicos
-- 💻 **POO con Java de nivel avanzado**: herencia, polimorfismo, colecciones, y hasta una GUI con temas rosa y oscuro 🔥
-- 🔩 **C en sangre**: punteros, memoria y `malloc` — donde el hardware se rinde ante quien entiende lo que pasa por debajo
-- 🗄️ **Bases de datos**: modelado relacional, consultas SQL, patrones DAO, claves foráneas restrictivas y singleton de conexión (lo que se dice "arquitectura", no solo un `SELECT *`)
-- 🧠 **Programación funcional** en Common Lisp (recursión, orden superior — donde otros entregan en Python, yo pienso en paréntesis)
-- 🐍 **Python**: automatización de cálculos de costos para negocios reales
-- 🌐 **Web**: HTML/CSS en camino al full-stack
-- 🤝 Trabajo en equipo con nombres de grupo que ya son leyenda: **"Los NullPointerException"** *(spoiler: nunca más aparecieron)*
-- 📚 Si no lo sé, lo aprendo. Si no existe, lo modelo. Si no compila, lo depuro.
+| 🚦 Estado actual | 🔥 Nivel de café | 🎯 Modo |
+|:---:|:---:|:---:|
+| 🟢 Compilando la carrera | ☕☕☕☕ ∞ | 🧠 `learning_mode = TRUE` |
 
 ---
 
@@ -193,6 +221,9 @@ Un sistema de gestión de biblioteca en Java con **arquitectura de tres capas** 
 
 ## 🎯 Actualmente
 
+> [!NOTE]
+> 📌 **Próxima parada técnica:** del consola → SQLite → GUI Swing → **API REST**. El sistema de biblioteca ya demostró que las capas se integran; ahora a conectarlas con el mundo.
+
 - 🏗️ Diseñando sistemas que aguantan: del consola → SQLite → GUI Swing (siguiente parada: API REST)
 - 🔭 Aprendiendo **desarrollo web full-stack** (y quizás, algún día, un framework de los modernos)
 - 📚 Cursando **Bases de Datos**, **POO** y **Programación Funcional** en la carrera
@@ -213,6 +244,9 @@ Un sistema de gestión de biblioteca en Java con **arquitectura de tres capas** 
 - ☕ Creo firmemente que `main()` es un estilo de vida
 - 🔩 Amo **C**: es el único lenguaje donde tenés que pedir perdón antes de hacer un `free()`. "Programo en C" suena igual de imponente que "litigo en el superior" — y ahora hago las dos 🎤⬇️
 - 💣 A un `segmentation fault` lo denuncio penalmente. Tiene toda la intención. 🕵️
+
+> [!WARNING]
+> ⚠️ **Advertencia legal:** este perfil puede causar envidia profesional. La mezcla *abogado + desarrollador* no está cubierta por ningún seguro del mercado. Leé bajo tu propio riesgo. 📜
 
 ---
 
